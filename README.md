@@ -47,9 +47,9 @@ A full-stack mobile-phone e-commerce platform for Sri Lanka (LKR) — storefront
 | :---: | :---: |
 | ![Compare](docs/screenshots/storefront/compare.png) | ![Deals](docs/screenshots/storefront/deals.png) |
 
-| Cart Drawer | Checkout | Command Palette |
+| Cart Drawer | Checkout|
 | :---: | :---: | :---: |
-| ![Cart drawer](docs/screenshots/storefront/cart-drawer.png) | ![Checkout](docs/screenshots/storefront/checkout.png) | ![Command palette](docs/screenshots/storefront/command-palette.png) |
+| ![Cart drawer](docs/screenshots/storefront/cart-drawer.png) | ![Checkout](docs/screenshots/storefront/checkout.png) | ![Command palette]) |
 
 ### 📱 Mobile
 
