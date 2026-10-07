@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150" viewBox="0 0 500 150" fill="none" role="img" aria-labelledby="jmzTitle jmzDesc">
+  <title id="jmzTitle">Jaffna MobileZone</title>
+  <desc id="jmzDesc">JM smartphone monogram with orbital energy swoosh, beside the words Jaffna MobileZone and the tagline Power Your Next Move.</desc>
+
+  <defs>
+    <!-- ===== Icon: materials ===== -->
+    <linearGradient id="gBody" x1="38" y1="10" x2="90" y2="118" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#334155"/>
+      <stop offset="0.34" stop-color="#1E293B"/>
+      <stop offset="0.62" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#060B18"/>
+    </linearGradient>
+    <linearGradient id="gBodySide" x1="38" y1="10" x2="90" y2="118" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="gScreen" x1="42" y1="14" x2="86" y2="114" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#050A16"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="gScreenGlow" cx="0.5" cy="0.24" r="0.72">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0.30"/>
+      <stop offset="0.55" stop-color="#1D4ED8" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gEdgeLight" x1="38" y1="10" x2="90" y2="118" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7DD3FC" stop-opacity="0.95"/>
+      <stop offset="0.3" stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="0.68" stop-color="#1D4ED8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0.65"/>
+    </linearGradient>
+
+    <!-- ===== Monogram: metallic navy + blue rim light ===== -->
+    <linearGradient id="gMono" x1="44" y1="42" x2="80" y2="94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64748B"/>
+      <stop offset="0.22" stop-color="#334155"/>
+      <stop offset="0.55" stop-color="#1E293B"/>
+      <stop offset="0.82" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="gMonoDeep" x1="44" y1="42" x2="80" y2="94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="gMonoRim" x1="44" y1="42" x2="80" y2="94" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#BAE6FD"/>
+      <stop offset="0.35" stop-color="#38BDF8" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#1D4ED8" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="gMonoSheen" x1="50" y1="42" x2="64" y2="86" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- ===== Orbital swoosh: electric -> royal -> cyan ===== -->
+    <linearGradient id="gOrbit" x1="14" y1="52" x2="114" y2="102" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.16" stop-color="#38BDF8"/>
+      <stop offset="0.48" stop-color="#2563EB"/>
+      <stop offset="0.76" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gOrbitHot" x1="14" y1="52" x2="114" y2="102" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67E8F9" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#A5F3FC"/>
+      <stop offset="0.52" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#CFFAFE" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- ===== Typography ===== -->
+    <linearGradient id="gJaffna" x1="0" y1="23" x2="0" y2="45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#94A3B8"/>
+      <stop offset="0.34" stop-color="#475569"/>
+      <stop offset="0.62" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="gMobile" x1="172.9" y1="48" x2="348" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7DD3FC"/>
+      <stop offset="0.28" stop-color="#38BDF8"/>
+      <stop offset="0.58" stop-color="#2563EB"/>
+      <stop offset="0.82" stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="gMobileGloss" x1="172.9" y1="48" x2="348" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gZone" x1="353.9" y1="48" x2="479" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#64748B"/>
+      <stop offset="0.24" stop-color="#334155"/>
+      <stop offset="0.56" stop-color="#0F172A"/>
+      <stop offset="0.84" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#475569"/>
+    </linearGradient>
+    <linearGradient id="gTagline" x1="224" y1="102" x2="479" y2="118" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#475569"/>
+      <stop offset="0.5" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#64748B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ============================================================
+       JM MONOGRAM ICON
+       ============================================================ -->
+  <g transform="translate(12.9,8.5)">
+
+    <!-- Layer 1 · orbital swoosh BEHIND the body -->
+    <g transform="rotate(-13 64 76)">
+      <ellipse cx="64" cy="76" rx="53" ry="21.5" fill="none" stroke="url(#gOrbit)" stroke-width="7" stroke-linecap="round" opacity="0.28"/>
+      <ellipse cx="64" cy="76" rx="53" ry="21.5" fill="none" stroke="url(#gOrbitHot)" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+      <ellipse cx="64" cy="76" rx="47" ry="18" fill="none" stroke="url(#gOrbit)" stroke-width="2.4" stroke-linecap="round" opacity="0.35"/>
+    </g>
+
+    <!-- Layer 2 · phone EXTRUSION (depth) -->
+    <rect x="43" y="15" width="52" height="108" rx="12" fill="url(#gBodySide)"/>
+    <rect x="43" y="15" width="52" height="108" rx="12" fill="#020617" opacity="0.55"/>
+
+    <!-- Layer 3 · phone FRONT face -->
+    <rect x="38" y="10" width="52" height="108" rx="12" fill="url(#gBody)"/>
+
+    <!-- brushed-metal micro-texture -->
+    <rect x="38" y="10" width="52" height="108" rx="12" fill="url(#gScreenGlow)" opacity="0.5"/>
+
+    <!-- bevel highlight (top-left catch light) -->
+    <path d="M38 22V22A12 12 0 0 1 50 10H78" stroke="#E2E8F0" stroke-opacity="0.30" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M90 98V96A12 12 0 0 1 78 108H52" stroke="#020617" stroke-opacity="0.75" stroke-width="1.8" stroke-linecap="round"/>
+
+    <!-- electric edge lighting -->
+    <rect x="38.8" y="10.8" width="50.4" height="106.4" rx="11.2" fill="none" stroke="url(#gEdgeLight)" stroke-width="1.6" opacity="0.9"/>
+
+    <!-- screen -->
+    <rect x="42" y="14" width="44" height="100" rx="8" fill="url(#gScreen)"/>
+    <rect x="42" y="14" width="44" height="100" rx="8" fill="url(#gScreenGlow)"/>
+    <rect x="42.8" y="14.8" width="42.4" height="98.4" rx="7.2" fill="none" stroke="#38BDF8" stroke-opacity="0.22" stroke-width="1"/>
+
+    <!-- Dynamic-Island-inspired earpiece -->
+    <rect x="56.5" y="18.5" width="15" height="4.4" rx="2.2" fill="#020617"/>
+    <rect x="56.5" y="18.5" width="15" height="4.4" rx="2.2" fill="none" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="0.8"/>
+    <rect x="58.5" y="19.8" width="5.5" height="1.6" rx="0.8" fill="#64748B" opacity="0.55"/>
+
+    <!-- ---------- THE JM MONOGRAM ---------- -->
+    <!-- J stem (x 50-56) and M left leg (x 50-56) share the same column,
+         so the two letters fuse into a single fused form. -->
+    <g>
+      <!-- extrusion -->
+      <g transform="translate(2.6,2.6)" fill="url(#gMonoDeep)">
+        <path d="M50 42H56V78C56 88 51 93 44 93L44 87C48 87 50 84 50 78Z"/>
+        <path d="M50 42H58L64 63L70 42H78V84H72V53L64 74L56 53V84H50Z"/>
+      </g>
+      <!-- face -->
+      <g fill="url(#gMono)">
+        <path d="M50 42H56V78C56 88 51 93 44 93L44 87C48 87 50 84 50 78Z"/>
+        <path d="M50 42H58L64 63L70 42H78V84H72V53L64 74L56 53V84H50Z"/>
+      </g>
+      <!-- blue rim light on the leading edges -->
+      <g fill="none" stroke="url(#gMonoRim)" stroke-width="1.15" stroke-linejoin="round" opacity="0.9">
+        <path d="M50 42H56V78C56 88 51 93 44 93L44 87C48 87 50 84 50 78Z"/>
+        <path d="M50 42H58L64 63L70 42H78V84H72V53L64 74L56 53V84H50Z"/>
+      </g>
+      <!-- specular sheen across the upper-left -->
+      <path d="M50 42H58L64 63L56 53V84H50Z" fill="url(#gMonoSheen)" opacity="0.5"/>
+    </g>
+
+    <!-- Layer 4 · orbital swoosh FRONT arc — the wrap-around 3D cue -->
+    <g transform="rotate(-13 64 76)">
+      <path d="M11 76a53 21.5 0 0 0 106 0" fill="none" stroke="url(#gOrbit)" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+      <path d="M11 76a53 21.5 0 0 0 106 0" fill="none" stroke="url(#gOrbitHot)" stroke-width="1.6" stroke-linecap="round" opacity="0.85"/>
+      <path d="M17 76a47 18 0 0 0 94 0" fill="none" stroke="#BAE6FD" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+    </g>
+  </g>
+
+  <!-- ============================================================
+       BRAND TYPOGRAPHY
+       ============================================================ -->
+  <g font-family="'Plus Jakarta Sans','Inter',system-ui,-apple-system,'Segoe UI',sans-serif">
+
+    <!-- JAFFNA -->
+    <g>
+      <text x="172.9" y="45" font-size="25" font-weight="800" letter-spacing="6.4" fill="#0B1220" opacity="0.9" transform="translate(0,1.6)">JAFFNA</text>
+      <text x="172.9" y="45" font-size="25" font-weight="800" letter-spacing="6.4" fill="url(#gJaffna)">JAFFNA</text>
+      <text x="172.9" y="45" font-size="25" font-weight="800" letter-spacing="6.4" fill="none" stroke="#CBD5E1" stroke-opacity="0.35" stroke-width="0.5">JAFFNA</text>
+    </g>
+
+    <!-- MOBILEZONE — dominant -->
+    <g>
+      <!-- extrusion -->
+      <g fill="#020617" opacity="0.95" transform="translate(0,3)">
+        <text x="172.9" y="86.5" font-size="46" font-weight="800" letter-spacing="-0.6">MOBILE</text>
+        <text x="353.9" y="86.5" font-size="46" font-weight="800" letter-spacing="-0.6">ZONE</text>
+      </g>
+      <g fill="#0B1220" opacity="0.9" transform="translate(0,1.4)">
+        <text x="172.9" y="86.5" font-size="46" font-weight="800" letter-spacing="-0.6">MOBILE</text>
+        <text x="353.9" y="86.5" font-size="46" font-weight="800" letter-spacing="-0.6">ZONE</text>
+      </g>
+
+      <!-- face -->
+      <text x="172.9" y="86.5" font-size="46" font-weight="800" letter-spacing="-0.6" fill="url(#gMobile)">MOBILE</text>
+      <text x="353.9" y="86.5" font-size="46" font-weight="800" letter-spacing="-0.6" fill="url(#gZone)">ZONE</text>
+
+      <!-- gloss highlight on MOBILE -->
+      <text x="172.9" y="86.5" font-size="46" font-weight="800" letter-spacing="-0.6" fill="url(#gMobileGloss)">MOBILE</text>
+    </g>
+
+    <!-- Tagline — centred beneath MOBILEZONE -->
+    <text x="224" y="117.5" font-size="14.5" font-weight="500" letter-spacing="2.4" fill="url(#gTagline)">Power Your Next Move.</text>
+  </g>
+</svg>
